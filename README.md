@@ -4,13 +4,17 @@ Clone the repo and run `npm install`.
 
 Start the vite server:
 
-`npm run vite:dev`
+```sh
+$ npm run vite:dev
+```
 
-Start the php server
+Start the node `http-server` server
 
-`php -S localhost:8080 -t public`
+```sh
+$ http-server
+```
 
-Vist: `http://localhost:8080`
+Vist: `http://127.0.0.1:8080`
 
 ## This works:
 
