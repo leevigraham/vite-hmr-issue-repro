@@ -1,0 +1,17 @@
+{
+  "name": "tailwind-repro",
+  "version": "0.0.0",
+  "scripts": {
+    "vite:dev": "NODE_ENV=development vite",
+    "vite:build": "vite build",
+    "vite:serve": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.4",
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.17",
+    "typescript": "^4.3.2",
+    "vite": "^2.6.4"
+  }
+}
