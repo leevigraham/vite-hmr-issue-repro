@@ -8,13 +8,7 @@ Start the vite server:
 $ npm run vite:dev
 ```
 
-Start the node `http-server` server
-
-```sh
-$ http-server
-```
-
-Vist: `http://127.0.0.1:8080`
+Visit: `http://http://localhost:3000`
 
 ## This works:
 
@@ -27,7 +21,7 @@ Vist: `http://127.0.0.1:8080`
 1. First stop the vite server.
 2. Then uncomment `origin: 'http://localhost:3000/'` in the vite config. 
 3. Start the vite server
-4. Visit `http://localhost:8080`
+4. Visit `http://localhost:3000`
 
 Then
 
