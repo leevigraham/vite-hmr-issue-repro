@@ -12,7 +12,7 @@ Visit: `http://http://localhost:3000`
 
 ## This works:
 
-* Task: Update the tailwind body class in `public/index.php`
+* Task: Update the tailwind body class in `src/index.html`
 * Expected: Browser updates and background changes
 * Actual: Browser updates and background changes
 
@@ -25,6 +25,6 @@ Visit: `http://http://localhost:3000`
 
 Then
 
-* Task: Update the tailwind body class in `templates/index.twig`
+* Task: Update the tailwind body class in `src/index.html`
 * Expected: Browser updates and background changes
 * Actual: Browser doesn't reload. Reloading the browser doesn't show updated styles either
